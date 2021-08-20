@@ -1,2 +1,2 @@
 # Introducing-to-Programming-Course
-some simple projects to become familiar with programming languages such as C/C++
+some useful knowledge base projects to become familiar with programming languages such as C/C++
